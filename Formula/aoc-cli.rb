@@ -1,8 +1,8 @@
 class AocCli < Formula
   desc "Advent of Code command-line helper tool"
   homepage "https://github.com/scarvalhojr/aoc-cli"
-  url "https://github.com/scarvalhojr/aoc-cli/archive/refs/tags/0.7.0.tar.gz"
-  sha256 "5dbb4fb2405a6fd49d8e679459aa8aeae23ac65c3ba830c7517cc31345a39d56"
+  url "https://github.com/scarvalhojr/aoc-cli/archive/refs/tags/0.8.0.tar.gz"
+  sha256 "91ade41abd920bd1a5a54e329b747a400c16f7889df484b4d85e6e1007f1bcc6" 
   license "MIT"
 
   depends_on "rust" => :build
